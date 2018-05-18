@@ -1,2 +1,2 @@
 # demo_proyecto
-Proyecto final de tercer parcial
+Proyecto final de tercer cuatrimestre
